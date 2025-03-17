@@ -60,4 +60,4 @@ void inicializarTabuleiro(int tabuleiro[TAMANHO][TAMANHO]) {
                                                                                                                                                                                                                                 exibirTabuleiro(tabuleiro);
 
                                                                                                                                                                                                                                     return 0;
-                                                                                                                                                                                                                                   }
+                                                                                                                                                                                                                                      }
